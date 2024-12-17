@@ -43,8 +43,8 @@ This project demonstrates the process of cracking weak passwords and educates us
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/vinaygummadi/Password Cracking and Protection Toolkit.git
-cd password-cracking-toolkit
+git clone https://github.com/vinaygummadi/Password-Cracking-and-Protection-Toolkit.git
+cd Password-Cracking-and-Protection-Toolkit
 ```
 
 ### **2. Install Dependencies**
